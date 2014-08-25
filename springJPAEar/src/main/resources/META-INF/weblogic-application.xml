@@ -1,0 +1,11 @@
+<weblogic-application xmlns="http://www.bea.com/ns/weblogic/90">
+	<prefer-application-packages>
+		<package-name>antlr.*</package-name>
+		<package-name>org.apache.commons.*</package-name>
+		<package-name>org.apache.xmlbeans.*</package-name>
+		<package-name>org.apache.log4j.*</package-name>
+		<package-name>org.springframework.*</package-name>
+		<package-name>org.hibernate.*</package-name>
+		<package-name>javax.persistence.*</package-name>
+	</prefer-application-packages>
+</weblogic-application>
